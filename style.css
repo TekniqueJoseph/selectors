@@ -3,7 +3,8 @@
 }
 
 
-#para2 {
+header > p {
     color: red;
-    font-size: '16px';
+    font-size: 16px;
 }
+
